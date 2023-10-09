@@ -14,7 +14,8 @@ function App() {
 
   // const localhost = 'http://113.187.9.16:3001';
   // const localhost = 'https://backendnodejs-03nf.onrender.com';
-  const localhost = 'http://localhost:3001';
+  const localhost = 'https://employeenodejs.onrender.com';
+  // const localhost = 'http://localhost:3001';
 
   useEffect(() => {
     // Gọi API để lấy danh sách nhân viên khi component được tạo
